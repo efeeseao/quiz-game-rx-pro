@@ -55,5 +55,17 @@ export const data = [
     question: 'Qual era o nome original da marca de roupa Nike?',
     answer: 'Blue Ribbon Sports',
     variants: [`Nike`, `Puma`, `Adidas`]
+  },
+  {
+    id: '9',
+    question: 'Quem pintou o quadro Mona Lisa?',
+    answer: 'Leonardo da Vinci',
+    variants: [`Leornado da Vinci`, `Pablo Picasso`, `Van Gogh`]
+  },
+  {
+    id: '10',
+    question: 'QQual é o maior país do mundo?',
+    answer: 'Rússia',
+    variants: [`Rússia`, `China`, `EUA`]
   }
 ]
