@@ -1,11 +1,12 @@
 import { ThemeProvider } from 'components'
-import { Home } from 'templates'
 import { GlobalStyle } from 'styles/global'
+
+import Routes from 'routes'
 
 function App() {
   return (
     <ThemeProvider>
-      <Home />
+      <Routes />
       <GlobalStyle />
     </ThemeProvider>
   )
