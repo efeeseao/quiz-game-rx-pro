@@ -12,10 +12,10 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif";
+    font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
     line-height: 1.6;
-    background-color: #fafafa;
+    background: #eaeaea;
     color: #333;
   }
 `
