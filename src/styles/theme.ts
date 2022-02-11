@@ -33,7 +33,8 @@ export default {
     gray: '#E5E5E5',
     darkGray: '#686C75',
     subtitle: '#83838e',
-    red: '#FF0000'
+    red: '#FF0000',
+    success: '#8bd3dd'
   },
   spacings: {
     xxsmall: '0.8rem',
