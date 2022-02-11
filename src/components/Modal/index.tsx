@@ -48,6 +48,7 @@ const Modal = ({ setIsOpen }: ModalProps) => {
               value={name}
               onChange={(e) => setName(e.target.value)}
               placeholder="Seu nome"
+              required
             />
             <S.ButtonWrapper>
               <Button fullWidth size="large">
